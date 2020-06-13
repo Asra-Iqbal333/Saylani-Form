@@ -1,0 +1,57 @@
+ h1 {
+    color: blueviolet;
+    text-decoration:underline;
+    text-align: center;
+}
+#img{
+text-align: center;
+}
+.main{
+    background-color: blueviolet;
+}
+.main .child{
+    width: 50%;
+    margin: 0 auto;
+}
+.child{
+margin-left: 30%;
+}
+body{
+    color: whitesmoke;
+   margin: 10px;
+   padding: 10px;
+}
+.id{
+    margin: 10px;
+}
+input{
+    margin: 10px;
+}
+#btn{
+
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+.child .width{
+    margin: 0;
+}
+.just{
+    text-align: justify;
+}
+.ty_page{
+    text-align: center;
+}
+#one{
+    color: forestgreen;
+    font-size: 42pt;
+    margin: 0;
+}
+#two{
+    color:blueviolet;
+}
+a{
+    color: purple;
+    font-size: 50px;
+    font-weight: bold;
+}
